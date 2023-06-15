@@ -1,7 +1,7 @@
 # 제목
 ##제목
 ###제목
-'''python
+<code>
 a =10
 print(a)
-'''
+</code>
